@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_expected"
+        android:title="Ожидаемые"
+        android:icon="@drawable/ic_expected" />
+    <item
+        android:id="@+id/menu_top_rating"
+        android:title="Топ рейтинг"
+        android:icon="@drawable/ic_top_rated" />
+</menu>
+
